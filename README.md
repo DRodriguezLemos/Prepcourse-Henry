@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-este es un repositorio de prueba del modulo2 del prepcourse henry
+ESTE ES UN PROYECTO DE PRUEBA DE COMO CREAR UN REPOSITORIO Y CLONARLO EN NUESTRO ALMACENAMIENTO LOCAL
